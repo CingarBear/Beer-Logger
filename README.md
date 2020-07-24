@@ -23,7 +23,7 @@ Update: 7/24/2020 @ 13:01:00
              2. Change your directory to your 'Downloads' folder
              3. type and tun the command: sudo chmod +x xampp-linux-x64-7.4.8-0-installer.run
              4. type and run the command: ls -al
-               * This command lists the files in the current durectory and displays their level of permission. 
-               * The 'XAMMP' file you downloaded should be hilighted in green now.
+                  * This command lists the files in the current durectory and displays their level of permission. 
+                  * The 'XAMMP' file you downloaded should be hilighted in green now.
              5. type and run the command: sudo ./xampp-linux-x64-7.4.8-0-installer.run
              
