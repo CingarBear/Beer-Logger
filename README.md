@@ -27,3 +27,7 @@ Update: 7/24/2020 @ 13:01:00
                   * The 'XAMMP' file you downloaded should be hilighted in green now.
              5. type and run the command: sudo ./xampp-linux-x64-7.4.8-0-installer.run
              
+ Planned Changes: 
+ 1. Make it so database has table of beers (name, brewery, sweetness, hoppiness, bitterness, cost?, etc?)
+ 2. Make it so user can add a beer to the database. 
+             
